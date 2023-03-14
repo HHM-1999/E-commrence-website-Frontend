@@ -33,7 +33,7 @@ const Home = () => {
                                             <h5><b>50% Discount  </b></h5>
                                             <br></br>
                                             <p> Upto $600.50 Order  </p>
-                                            <Link className='button '><b>GET HERE</b></Link>
+                                            <Link className='button '><b>BUY NOW</b></Link>
                                         </div>
                                     </div>
 
