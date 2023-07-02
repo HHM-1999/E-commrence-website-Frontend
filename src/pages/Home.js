@@ -279,10 +279,10 @@ const Home = () => {
                         {/* card 1 */}
                         <div className='col-3 px-2'>
                             <div className='famous-card position-relative'>
-                                <img src="https://img.freepik.com/premium-psd/smart-watch-mockup-geometric-scene_23-2149896826.jpg?size=626&ext=jpg&ga=GA1.2.1763720918.1685545808&semt=ais" alt="smart watch" className='img-fluid' />
+                                <img src="https://img.freepik.com/premium-photo/man-watch-mockup-without-brand-flat-photography_727082-1.jpg?size=626&ext=jpg&ga=GA1.1.1763720918.1685545808&semt=ais" alt="smart watch" className='img-fluid' />
                                 <div className='famous-content position-absolute'>
-                                    <h5>Big Screen</h5>
-                                    <h6>Smart Watch series 10</h6>
+                                    <h5><b>Big Screen</b></h5>
+                                    <h6><b>Watch series 10</b></h6>
                                     <p>From $300 to $700 for mo.*</p>
                                     <br />
                                 </div>
@@ -294,11 +294,11 @@ const Home = () => {
                         {/* card 2 */}
                         <div className='col-3 px-2'>
                             <div className='famous-card position-relative'>
-                                <img src="https://img.freepik.com/premium-psd/smart-watch-mockup-geometric-scene_23-2149896826.jpg?size=626&ext=jpg&ga=GA1.2.1763720918.1685545808&semt=ais" alt="smart watch" className='img-fluid' />
+                                <img src="https://img.freepik.com/free-photo/high-angle-desk-arrangement-with-ssd-laptop_23-2149328281.jpg?size=626&ext=jpg&ga=GA1.1.1763720918.1685545808&semt=ais" alt="smart watch" className='img-fluid' />
                                 <div className='famous-content position-absolute'>
-                                    <h5>Big Screen</h5>
-                                    <h6>Smart Watch series 10</h6>
-                                    <p>From $300 to $700 for mo.*</p>
+                                    <h5><b>POWER BANK</b></h5>
+                                    <h6><b>Oraimo Flash 170 OPB</b></h6>
+                                    <p>From $500 to $700 for mo.*</p>
                                 </div>
 
 
@@ -308,11 +308,13 @@ const Home = () => {
                         {/* card 3 */}
                         <div className='col-3 px-2'>
                             <div className='famous-card position-relative'>
-                                <img src="https://img.freepik.com/premium-psd/smart-watch-mockup-geometric-scene_23-2149896826.jpg?size=626&ext=jpg&ga=GA1.2.1763720918.1685545808&semt=ais" alt="smart watch" className='img-fluid' />
+                                <img src="https://img.freepik.com/premium-photo/top-view-laptop-computer-neutral-beige-couch-with-pillow-flatlay-work-home-concept_408798-11045.jpg?w=360" alt="smart watch" className='img-fluid' />
+
+
                                 <div className='famous-content position-absolute'>
-                                    <h5>Big Screen</h5>
-                                    <h6>Smart Watch series 10</h6>
-                                    <p>From $300 to $700 for mo.*</p>
+                                    <h5><b>Studio Display</b></h5>
+                                    <h6><b>HP EliteBook 860</b></h6>
+                                    <p>16 inch G9 Notebook PC</p>
                                 </div>
 
 
@@ -322,11 +324,11 @@ const Home = () => {
                         {/* card 4 */}
                         <div className='col-3 px-2'>
                             <div className='famous-card position-relative'>
-                                <img src="https://img.freepik.com/premium-psd/smart-watch-mockup-geometric-scene_23-2149896826.jpg?size=626&ext=jpg&ga=GA1.2.1763720918.1685545808&semt=ais" alt="smart watch" className='img-fluid' />
+                                <img src="https://img.freepik.com/free-photo/elegant-smartphone-composition_23-2149437106.jpg?size=626&ext=jpg&ga=GA1.1.1763720918.1685545808&semt=ais" alt="smart watch" className='img-fluid' />
                                 <div className='famous-content position-absolute'>
-                                    <h5>Big Screen</h5>
-                                    <h6>Smart Watch series 10</h6>
-                                    <p>From $300 to $700 for mo.*</p>
+                                    <h5><b>SMART PHONES</b></h5>
+                                    <h6><b>IPhone 14 Pro</b></h6>
+                                    <p>Now in SkyBlue and Selmon Pink *</p>
                                 </div>
 
 

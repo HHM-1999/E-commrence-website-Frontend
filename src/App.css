@@ -337,11 +337,13 @@ footer .input-group-text {
 /* famous card */
 
 .famous-card .famous-content {
-  top: 6%;
-  left: 7%;
+  top: 8%;
+  left: 8%;
 }
 .famous-card img {
   border-radius: 10px;
+  height: 200%;
+ 
 }
 .famous-content h5 {
   font-size: 13px;
@@ -359,7 +361,7 @@ footer .input-group-text {
 }
 .famous-content p {
   font-size: 15px;
-  line-height: 24px;
+  line-height: 20px;
   font-weight: 100;
   color: white;
 }
